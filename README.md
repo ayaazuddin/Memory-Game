@@ -5,5 +5,3 @@ A Simple memory game to let myself get comfortable with typescript and react-hoo
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) - Typescript
 
-
-[Here is the link](https://memorygamereact.netlify.app/)
